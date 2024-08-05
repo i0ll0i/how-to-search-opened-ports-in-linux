@@ -16,7 +16,10 @@ sudo netstat -tuln
 ```
 In this case, the following options are used:
 
--t: show TCP ports;
--u: show UDP ports;
--l: show only listening ports;
--n: show numerical addresses instead of resolving hosts.
+- -t: show TCP ports;
+- -u: show UDP ports;
+- -l: show only listening ports;
+- -n: show numerical addresses instead of resolving hosts.
+![](images/netstat.png)
+
+Continued on the [iolloi.icu]([https://iolloi.icu/index.php/2024/07/30/how-to-search-for-a-users-location-within-active-directory/](https://iolloi.icu/index.php/2024/08/02/how-to-search-opened-ports-in-linux/))
